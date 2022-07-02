@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="vue2.js"></script>
+</head>
+<body>
+
+<div id="app"></div>
+
+</body>
+</html>
+
+<script>
+
+
+    Vue.component('view-view1',{
+        template: `
+            <div>
+                <ul>
+                       <li v-for="p of posts" :key="p.id">
+                            <button @click="{{currentPost = p}}">{{p.title}}</button>
+                        </li>
+                </ul>
+
+                <div>
+                    selected content:
+                   <br/>
+                   <p v-if="currentPost">
+                    {{currentPost.content}}
+                    </p>
+                    <p v-else>Not selected one Post!</p>
+                </div>
+            </div>
+        `,
+        data : function () {
+            return {
+                currentPost: null,
+                posts : [
+                    {
+                        id : 'p1',
+                        title: 'title1',
+                        content: 'c1'
+
+                    },
+                    {
+                        id : 'p2',
+                        title: 'title2',
+                        content: 'c2'
+
+                    },
+                    {
+                        id : 'p3',
+                        title: 'title3',
+                        content: 'c3'
+
+                    },
+                ]
+            }
+        }
+    })
+
+    Vue.component('view-view2',{
+        template: `
+            <p>view-view2's content</p>
+        `
+    })
+
+    new Vue({
+        el : '#app',
+        template: `
+            <div>
+                inside parent:
+              <button v-for=" v of views" :key="v" @click="{{currentView = v}}">{{v}}</button>
+              <keep-alive>
+               <component :is="selectedView"></component>
+               </keep-alive>
+
+            </div>
+        `,
+        data: {
+            views: ['view1','view2'],
+            currentView: 'view1'
+        },
+        computed: {
+            selectedView() {
+                return 'view-'+ this.currentView
+            }
+        }
+    })
+</script>

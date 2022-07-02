@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>方法的返回值可直接获取到</title>
+    <script src="vue2.js"></script>
+</head>
+<body>
+
+<div id="app"></div>
+
+</body>
+</html>
+
+<script>
+    new Vue({
+        el : '#app',
+        template: `
+            <div>
+                <h1>hello</h1>
+                <p>{{getValue()}}</p>
+            </div>
+        `,
+        methods: {
+            getValue() {
+                return 1
+            }
+        }
+    })
+</script>
