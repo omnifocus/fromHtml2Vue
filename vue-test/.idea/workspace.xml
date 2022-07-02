@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01eb14e9-8b3e-4841-aea4-22e3ffd50ea2" name="Default Changelist" comment="" />
+    <list default="true" id="01eb14e9-8b3e-4841-aea4-22e3ffd50ea2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HTML/The_img_Element.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML/headings_lists_exercise.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="2B2qCKEjlYE0k3fubpTXSWtPCXI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -38,7 +48,8 @@
       <workItem from="1656114400998" duration="987000" />
       <workItem from="1656502836235" duration="989000" />
       <workItem from="1656678882857" duration="554000" />
-      <workItem from="1656764695413" duration="43000" />
+      <workItem from="1656764695413" duration="714000" />
+      <workItem from="1656768075257" duration="985000" />
     </task>
     <servers />
   </component>
