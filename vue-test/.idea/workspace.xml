@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01eb14e9-8b3e-4841-aea4-22e3ffd50ea2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HTML/exercise_HTML5_ids_classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/exercises_Images_URLs_Beyond.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/exercise2_css_selectors_again.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/exercise_css_selectors_again.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/only-child.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/pseudo-class.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +36,12 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -51,6 +59,7 @@
       <workItem from="1656764695413" duration="714000" />
       <workItem from="1656768075257" duration="5253000" />
       <workItem from="1656776536255" duration="741000" />
+      <workItem from="1656807947855" duration="1182000" />
     </task>
     <task id="LOCAL-00001" summary="The img Element">
       <created>1656769337643</created>
