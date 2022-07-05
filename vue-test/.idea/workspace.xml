@@ -2,15 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01eb14e9-8b3e-4841-aea4-22e3ffd50ea2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/Listing 10-12: Using floating elements.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/Listing 10-13: Explicit box size.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/Listing 10-14: Floating mess.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/Listing 10-15: Floating boxes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/Overflow_Listing 10-12: Using floating elements.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/border-radius.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/padding.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/parctical_applying_padding_and_margins.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/Images and Gradients/How Linear Gradients really Work.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/Images and Gradients/Multiple Backgrounds with Gradients.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/Images and Gradients/background-image-big.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/Images and Gradients/background-image-small.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/Images and Gradients/sizing background images.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/text/Text alignment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/text/em.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/text/line-height.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/text/rem.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/Listing 10-12: Using floating elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/css/basics/Listing 10-12: Using floating elements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/Listing 10-13: Explicit box size.html" beforeDir="false" afterPath="$PROJECT_DIR$/css/basics/Listing 10-13: Explicit box size.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/Listing 10-14: Floating mess.html" beforeDir="false" afterPath="$PROJECT_DIR$/css/basics/Listing 10-14: Floating mess.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/Listing 10-15: Floating boxes.html" beforeDir="false" afterPath="$PROJECT_DIR$/css/basics/Listing 10-15: Floating boxes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/Overflow_Listing 10-12: Using floating elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/css/basics/Overflow_Listing 10-12: Using floating elements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/border-radius.html" beforeDir="false" afterPath="$PROJECT_DIR$/css/basics/border-radius.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/exercise2_css_selectors_again.html" beforeDir="false" afterPath="$PROJECT_DIR$/css/basics/exercise2_css_selectors_again.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/exercise_css_selectors_again.html" beforeDir="false" afterPath="$PROJECT_DIR$/css/basics/exercise_css_selectors_again.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/nested_elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/css/basics/nested_elements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/only-child.html" beforeDir="false" afterPath="$PROJECT_DIR$/css/basics/only-child.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/padding.html" beforeDir="false" afterPath="$PROJECT_DIR$/css/basics/padding.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/parctical_applying_padding_and_margins.html" beforeDir="false" afterPath="$PROJECT_DIR$/css/basics/parctical_applying_padding_and_margins.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/pseudo-class.html" beforeDir="false" afterPath="$PROJECT_DIR$/css/basics/pseudo-class.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +54,16 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css/Images and Gradients" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css/Images and Gradients" />
+      <recent name="$PROJECT_DIR$/css/text" />
       <recent name="$PROJECT_DIR$/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css/basics" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -64,6 +83,9 @@
       <workItem from="1656768075257" duration="5253000" />
       <workItem from="1656776536255" duration="741000" />
       <workItem from="1656807947855" duration="6626000" />
+      <workItem from="1656836563796" duration="36000" />
+      <workItem from="1656936272080" duration="1223000" />
+      <workItem from="1657021512900" duration="2865000" />
     </task>
     <task id="LOCAL-00001" summary="The img Element">
       <created>1656769337643</created>
@@ -72,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656769337643</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="css basics done">
+      <created>1656836586831</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656836586831</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,20 +109,25 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="The img Element" />
-    <option name="LAST_COMMIT_MESSAGE" value="The img Element" />
+    <MESSAGE value="css basics done" />
+    <option name="LAST_COMMIT_MESSAGE" value="css basics done" />
   </component>
   <component name="WindowStateProjectService">
     <state x="363" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1656831854214">
       <screen x="0" y="25" width="1440" height="790" />
     </state>
     <state x="363" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.790@0.25.1440.790" timestamp="1656831854214" />
-    <state x="515" y="25" width="821" height="790" key="CommitChangelistDialog2" timestamp="1656769337446">
+    <state x="515" y="25" width="821" height="790" key="CommitChangelistDialog2" timestamp="1656836586559">
       <screen x="0" y="25" width="1440" height="790" />
     </state>
-    <state x="515" y="25" width="821" height="790" key="CommitChangelistDialog2/0.25.1440.790@0.25.1440.790" timestamp="1656769337446" />
+    <state x="515" y="25" width="821" height="790" key="CommitChangelistDialog2/0.25.1440.790@0.25.1440.790" timestamp="1656836586559" />
     <state x="443" y="150" key="RollbackChangesDialog" timestamp="1656773675592">
       <screen x="0" y="25" width="1440" height="790" />
     </state>
     <state x="443" y="150" key="RollbackChangesDialog/0.25.1440.790@0.25.1440.790" timestamp="1656773675592" />
+    <state x="320" y="157" key="Vcs.Push.Dialog.v2" timestamp="1656836593320">
+      <screen x="0" y="25" width="1440" height="790" />
+    </state>
+    <state x="320" y="157" key="Vcs.Push.Dialog.v2/0.25.1440.790@0.25.1440.790" timestamp="1656836593320" />
   </component>
 </project>
